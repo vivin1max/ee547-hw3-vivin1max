@@ -1,7 +1,5 @@
 # Problem 2: ArXiv Paper Discovery with DynamoDB
 
-DynamoDB-based paper discovery system with denormalization and GSIs.
-
 ## Quick Start
 
 ```bash
