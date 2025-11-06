@@ -1,5 +1,5 @@
 
-# EE547 HW3 - Database Systems
+# EE547 HW3 - Applied and Cloud Computing for Electrical Engineers
 
 **Name:** Vivin Thiyagarajan  
 **USC Email:** vthiyaga@usc.edu
