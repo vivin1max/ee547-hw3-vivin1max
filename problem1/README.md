@@ -1,7 +1,5 @@
 # Problem 1: Metro Transit Database
 
-PostgreSQL database for transit schedules with Docker setup.
-
 ## Quick Start
 
 ```bash
